@@ -1,7 +1,9 @@
+import Map from "./comps/Map";
+
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to the App</h1>
+      <Map />
     </div>
   );
 }
